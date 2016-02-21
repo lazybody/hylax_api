@@ -1,0 +1,1 @@
+mklink /d "..\node_modules\app" "..\app"
